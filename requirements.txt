@@ -1,7 +1,7 @@
+torch==2.3.1+cpu --find-links https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.15.2+cpu --find-links https://download.pytorch.org/whl/torch_stable.html
+ultralytics==8.0.134
 streamlit==1.28.0
-torch==2.3.1
-torchvision==0.15.2
 pillow
 numpy
-ultralytics
 opencv-python-headless==4.9.0.80
